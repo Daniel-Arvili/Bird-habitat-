@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "6M6JKe3RHmsSy7GKfFWGNzRJSBL+WmQZATfguWBrUgMFqNlbtzXdRcw/pL3UCGHK86S96CeJXnP2mHEVrIwv9w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\aviv1\\source\\repos\\Bird-Project-For-College\\LoginPage\\LoginPage.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aviv1\\.nuget\\packages\\oxyplot.core\\2.1.2\\oxyplot.core.2.1.2.nupkg.sha512",
+    "C:\\Users\\aviv1\\.nuget\\packages\\oxyplot.windowsforms\\2.1.2\\oxyplot.windowsforms.2.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
